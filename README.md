@@ -84,19 +84,6 @@ An AI site-safety assistant that analyzes images for hazards, ranks risks, and p
 
 <div align="center">
 
-[![Public repositories](https://img.shields.io/badge/Public_repositories-6-2563eb?style=for-the-badge&logo=github)](https://github.com/klazhiki?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/klazhiki?style=for-the-badge&logo=github&label=Followers)](https://github.com/klazhiki?tab=followers)
-[![Sentinel stars](https://img.shields.io/github/stars/klazhiki/Sentinel?style=for-the-badge&logo=github&label=Sentinel%20stars)](https://github.com/klazhiki/Sentinel)
-[![Merged contribution](https://img.shields.io/badge/Open_source_PR-Merged-2ea44f?style=for-the-badge&logo=github)](https://github.com/tldr-pages/tldr/pull/21575)
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
 ### Thanks for checking out my profile!
 
 Explore my repositories, follow along, or open an issue if you'd like to connect.
