@@ -13,7 +13,11 @@
 
 Welcome to my page! I'm Ethan, a developer who enjoys building useful AI tools, exploring security, and turning ideas into real projects.
 
-## Open source contributions
+<br>
+
+---
+
+## 🤝 Open Source Contributions
 
 I enjoy contributing practical improvements to tools used by the wider developer community.
 
@@ -23,17 +27,19 @@ I enjoy contributing practical improvements to tools used by the wider developer
 
 ### 📚 [tldr-pages](https://github.com/tldr-pages/tldr) · ⭐ 63.4k stars
 
-**✅ Featured example — [My merged contribution adding wait4x, wait4x tcp, and wait4x http command pages](https://github.com/tldr-pages/tldr/pull/21575)**
+**✅ Featured example · [My merged contribution adding wait4x, wait4x tcp, and wait4x http command pages](https://github.com/tldr-pages/tldr/pull/21575)**
 
 Added clear, example-driven documentation for waiting on ports, HTTP endpoints, databases, and services in development and CI workflows.
-
 
 </td>
 </tr>
 </table>
 
+<br>
 
-## Featured work
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -62,18 +68,28 @@ An AI site-safety assistant that analyzes images for hazards, ranks risks, and p
 </tr>
 </table>
 
-## Tools I work with
+<br>
+
+---
+
+## 🧰 Tools I Work With
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,vite,tailwind,html,css,git,github,vercel&perline=11" alt="Python, TypeScript, JavaScript, React, Vite, Tailwind CSS, HTML, CSS, Git, GitHub, and Vercel" />
 </p>
 
-## GitHub at a glance
+<br>
+
+---
+
+## 📊 GitHub at a Glance
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=klazhiki&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Ethan's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klazhiki&layout=compact&hide_border=true&theme=transparent&hide=cmake,c%2B%2B,c&langs_count=6" alt="Ethan's most used languages" />
 </div>
+
+<br>
 
 ---
 
