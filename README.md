@@ -11,7 +11,7 @@
 
 ## About me
 
-Hey, I'm Ethan from Canada <img src="https://flagcdn.com/w40/ca.png" width="20" alt="Canadian flag" />
+Welcome to my page! I'm Ethan, a developer who enjoys building useful AI tools, exploring security, and turning ideas into real projects.
 
 I like turning AI into useful, focused products—especially where **safety**, **security**, and thoughtful user experience meet.
 
