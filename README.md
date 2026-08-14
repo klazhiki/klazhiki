@@ -85,8 +85,12 @@ An AI site-safety assistant that analyzes images for hazards, ranks risks, and p
 ## 📊 GitHub at a Glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=klazhiki&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Ethan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klazhiki&layout=compact&hide_border=true&theme=transparent&hide=cmake,c%2B%2B,c&langs_count=6" alt="Ethan's most used languages" />
+
+[![Public repositories](https://img.shields.io/badge/Public_repositories-6-2563eb?style=for-the-badge&logo=github)](https://github.com/klazhiki?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/klazhiki?style=for-the-badge&logo=github&label=Followers)](https://github.com/klazhiki?tab=followers)
+[![Sentinel stars](https://img.shields.io/github/stars/klazhiki/Sentinel?style=for-the-badge&logo=github&label=Sentinel%20stars)](https://github.com/klazhiki/Sentinel)
+[![Merged contribution](https://img.shields.io/badge/Open_source_PR-Merged-2ea44f?style=for-the-badge&logo=github)](https://github.com/tldr-pages/tldr/pull/21575)
+
 </div>
 
 <br>
