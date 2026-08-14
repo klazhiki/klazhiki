@@ -27,7 +27,7 @@ I enjoy contributing practical improvements to tools used by the wider developer
 
 ### 📚 [tldr-pages](https://github.com/tldr-pages/tldr) · ⭐ 63.4k stars
 
-**✅ Featured example · [My merged contribution adding wait4x, wait4x tcp, and wait4x http command pages](https://github.com/tldr-pages/tldr/pull/21575)**
+**✅ Merged PR example · [My merged contribution adding wait4x, wait4x tcp, and wait4x http command pages](https://github.com/tldr-pages/tldr/pull/21575)**
 
 Added clear, example-driven documentation for waiting on ports, HTTP endpoints, databases, and services in development and CI workflows.
 
