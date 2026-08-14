@@ -11,12 +11,9 @@
 
 ## About me
 
-I'm a developer interested in turning AI into useful, focused products—especially where **safety**, **security**, and thoughtful user experience meet.
+Hey, I'm Ethan from Canada 🇨🇦
 
-- 🔭 Building AI-assisted tools for real-world problems
-- 🛡️ Exploring application security and safer software
-- 🧠 Working with multimodal AI and computer vision
-- ⚡ Enjoy taking ideas from prototype to deployed product
+I like turning AI into useful, focused products—especially where **safety**, **security**, and thoughtful user experience meet.
 
 ## Open source contributions
 
