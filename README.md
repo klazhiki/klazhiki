@@ -13,8 +13,6 @@
 
 Welcome to my page! I'm Ethan, a developer who enjoys building useful AI tools, exploring security, and turning ideas into real projects.
 
-I like turning AI into useful, focused products—especially where **safety**, **security**, and thoughtful user experience meet.
-
 ## Open source contributions
 
 I enjoy contributing practical improvements to tools used by the wider developer community.
