@@ -24,6 +24,17 @@ I'm a developer interested in turning AI into useful, focused products—especia
 <tr>
 <td width="50%" valign="top">
 
+### 🛡️ [Sentinel](https://github.com/klazhiki/Sentinel)
+
+An AI-driven security auditor with repository scanning, severity filtering, SARIF export, attack-path views, and patch guidance.
+
+**Python · Gemini · Security · Vercel**
+
+[View repository →](https://github.com/klazhiki/Sentinel) · [Live demo →](https://sentinelauditor.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🦺 [SafeGuard](https://github.com/klazhiki/FallGuard)
 
 An AI site-safety assistant that analyzes images for hazards, ranks risks, and provides prioritized recommendations.
@@ -33,15 +44,25 @@ An AI site-safety assistant that analyzes images for hazards, ranks risks, and p
 [View repository →](https://github.com/klazhiki/FallGuard) · [Live demo →](https://fall-guard-nine.vercel.app/)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
 
-### 🛡️ [Sentinel](https://github.com/klazhiki/Sentinel)
+## Open source contributions
 
-An AI-driven security auditor with repository scanning, severity filtering, SARIF export, attack-path views, and patch guidance.
+I enjoy contributing practical improvements to tools used by the wider developer community.
 
-**Python · Gemini · Security · Vercel**
+<table>
+<tr>
+<td valign="top">
 
-[View repository →](https://github.com/klazhiki/Sentinel) · [Live demo →](https://sentinelauditor.vercel.app/)
+### 📚 [tldr-pages](https://github.com/tldr-pages/tldr)
+
+**Selected contribution — [wait4x, wait4x tcp, and wait4x http command pages](https://github.com/tldr-pages/tldr/pull/21575)**
+
+Added clear, example-driven documentation for waiting on ports, HTTP endpoints, databases, and services in development and CI workflows.
+
+[![Merged](https://img.shields.io/badge/PR-merged-8957e5?style=flat-square&logo=github)](https://github.com/tldr-pages/tldr/pull/21575)
+[![Project](https://img.shields.io/github/stars/tldr-pages/tldr?style=flat-square&label=tldr-pages%2Ftldr&logo=github)](https://github.com/tldr-pages/tldr)
 
 </td>
 </tr>
