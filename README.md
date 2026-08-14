@@ -26,16 +26,12 @@ I enjoy contributing practical improvements to tools used by the wider developer
 <tr>
 <td valign="top">
 
-### 📚 [tldr-pages](https://github.com/tldr-pages/tldr)
+### 📚 [tldr-pages](https://github.com/tldr-pages/tldr) · ⭐ 63.4k stars
 
-**Selected contribution — [wait4x, wait4x tcp, and wait4x http command pages](https://github.com/tldr-pages/tldr/pull/21575)**
+**✅ My merged PR — [Added wait4x, wait4x tcp, and wait4x http command pages](https://github.com/tldr-pages/tldr/pull/21575)**
 
 Added clear, example-driven documentation for waiting on ports, HTTP endpoints, databases, and services in development and CI workflows.
 
-[![Merged](https://img.shields.io/badge/PR-merged-8957e5?style=flat-square&logo=github)](https://github.com/tldr-pages/tldr/pull/21575)
-[![Stars](https://img.shields.io/github/stars/tldr-pages/tldr?style=for-the-badge&label=%E2%AD%90%20STARS&color=f5b301)](https://github.com/tldr-pages/tldr)
-
-**⭐ 63,399 GitHub stars**
 
 </td>
 </tr>
