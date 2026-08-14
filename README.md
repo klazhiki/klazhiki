@@ -18,7 +18,28 @@ I'm a developer interested in turning AI into useful, focused products—especia
 - 🧠 Working with multimodal AI and computer vision
 - ⚡ Enjoy taking ideas from prototype to deployed product
 
-## Featured work
+## Open source contributions
+
+I enjoy contributing practical improvements to tools used by the wider developer community.
+
+<table>
+<tr>
+<td valign="top">
+
+### 📚 [tldr-pages](https://github.com/tldr-pages/tldr)
+
+**Selected contribution — [wait4x, wait4x tcp, and wait4x http command pages](https://github.com/tldr-pages/tldr/pull/21575)**
+
+Added clear, example-driven documentation for waiting on ports, HTTP endpoints, databases, and services in development and CI workflows.
+
+[![Merged](https://img.shields.io/badge/PR-merged-8957e5?style=flat-square&logo=github)](https://github.com/tldr-pages/tldr/pull/21575)
+[![Stars](https://img.shields.io/github/stars/tldr-pages/tldr?style=for-the-badge&label=%E2%AD%90%20STARS&color=f5b301)](https://github.com/tldr-pages/tldr)\n\n**⭐ 63,399 GitHub stars**
+
+</td>
+</tr>
+</table>
+
+\n## Featured work
 
 <table>
 <tr>
@@ -42,27 +63,6 @@ An AI site-safety assistant that analyzes images for hazards, ranks risks, and p
 **Gemini · Computer Vision · JavaScript · Vercel**
 
 [View repository →](https://github.com/klazhiki/FallGuard) · [Live demo →](https://fall-guard-nine.vercel.app/)
-
-</td>
-</tr>
-</table>
-
-## Open source contributions
-
-I enjoy contributing practical improvements to tools used by the wider developer community.
-
-<table>
-<tr>
-<td valign="top">
-
-### 📚 [tldr-pages](https://github.com/tldr-pages/tldr)
-
-**Selected contribution — [wait4x, wait4x tcp, and wait4x http command pages](https://github.com/tldr-pages/tldr/pull/21575)**
-
-Added clear, example-driven documentation for waiting on ports, HTTP endpoints, databases, and services in development and CI workflows.
-
-[![Merged](https://img.shields.io/badge/PR-merged-8957e5?style=flat-square&logo=github)](https://github.com/tldr-pages/tldr/pull/21575)
-[![Project](https://img.shields.io/github/stars/tldr-pages/tldr?style=flat-square&label=tldr-pages%2Ftldr&logo=github)](https://github.com/tldr-pages/tldr)
 
 </td>
 </tr>
