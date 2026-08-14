@@ -82,8 +82,6 @@ An AI site-safety assistant that analyzes images for hazards, ranks risks, and p
 
 ---
 
-## 📊 GitHub at a Glance
-
 <div align="center">
 
 [![Public repositories](https://img.shields.io/badge/Public_repositories-6-2563eb?style=for-the-badge&logo=github)](https://github.com/klazhiki?tab=repositories)
@@ -99,7 +97,7 @@ An AI site-safety assistant that analyzes images for hazards, ranks risks, and p
 
 <div align="center">
 
-### Let's build something useful.
+### Thanks for checking out my profile!
 
 Explore my repositories, follow along, or open an issue if you'd like to connect.
 
