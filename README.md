@@ -11,7 +11,7 @@
 
 ## About me
 
-Hey, I'm Ethan from Canada 🇨🇦
+Hey, I'm Ethan from Canada <img src="https://flagcdn.com/w40/ca.png" width="20" alt="Canadian flag" />
 
 I like turning AI into useful, focused products—especially where **safety**, **security**, and thoughtful user experience meet.
 
